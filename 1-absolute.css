@@ -16,8 +16,6 @@ aside {
     right: 0;
     width: 20%;
     top: 87px;
-    /* height: 50%; */
-    /* bottom: 40px; */
     height: calc(100% - 87px);
     overflow: scroll;
 }
